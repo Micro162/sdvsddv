@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ContactLib/ContactLib.csproj" />
+  <Project Path="GeometryLib/GeometryLib.csproj" />
+  <Project Path="HostApp/HostApp.csproj" />
+  <Project Path="TextLib/TextLib.csproj" />
+</Solution>
